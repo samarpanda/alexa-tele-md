@@ -1,0 +1,30 @@
+{
+  "name": "alexa-tele-md",
+  "version": "0.0.1",
+  "description": "Alexa medicine support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarpanda/alexa-tele-md.git"
+  },
+  "author": "er.samarpanda@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarpanda/alexa-tele-md/issues"
+  },
+  "homepage": "https://github.com/samarpanda/alexa-tele-md#readme",
+  "devDependencies": {
+    "superagent": "^2.2.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "ngrok": "^2.2.2"
+  }
+}
